@@ -1,0 +1,47 @@
+Questão-Problema 01: Cadastro de Aluno
+
+    Variáveis necessárias:
+        nome_completo (Ana Beatriz Castro Carvalho)
+        idade 15
+        altura 1.67
+        matriculado (sim)
+        Variável adicional sugerida: data_de_nascimento (13/03/2010)
+
+    Tipos de dados:
+        nome_completo: String (Ana Beatriz castro carvalho)
+        idade: Integer (15)e
+        altura: Float ou Double (1.67)
+        matriculado: Boolean (sim)
+        data_de_nascimento: String ( 13/03/2010)
+
+Questão-Problema 02: Informações de Produto
+
+    Variáveis necessárias:
+        nome_produto ( bolacha)
+        quantidade_em_estoque  1000
+        preco_unitario 17,00
+        disponivel_para_venda sim
+        Variável adicional sugerida: fornecedor (sim)
+
+    Tipos de dados:
+        nome_produto: bolacha
+        quantidade_em_estoque: 1000
+        preco_unitario: Float ou Double 17,00
+        disponivel_para_venda: sim
+        fornecedor: ana 
+
+Questão-Problema 03: Dados de um Evento
+
+    Variáveis necessárias:
+        nome_evento dobaldo
+        numero_de_participantes 188
+        preco_ingresso      45,00
+        evento_presencial sim 
+        Variável adicional sugerida: 14/09/2025
+
+    Tipos de dados:
+        nome_evento: dobaldo
+        numero_de_participantes: 25444
+        preco_ingresso: 45,00
+        evento_presencial: sim
+        data_do_evento: String (14/09/2025
